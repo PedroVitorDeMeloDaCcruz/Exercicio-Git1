@@ -1,0 +1,1 @@
+A  programação Procedural que vem perdendo força no mercado divide o programa em pequenos funções, ja o programação direcionada a objetos usando métodos e classes juntos. Além disso a Programação procedural e comumente mais rápida e simple diferente da orientada a objetos que e mais complexa e  robusta sendo mais modular e melhor organizada
